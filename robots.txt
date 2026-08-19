@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://css-box-tool.vercel.app/sitemap.xml
+Sitemap: https://java949.github.io/Css-Box-Tool/sitemap.xml
